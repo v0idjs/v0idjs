@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Malik
+# 👋 Hi, I'm V0id
 
 ### JavaScript Developer • UI/UX Designer • Creative Editor
 
@@ -64,7 +64,7 @@ Branding & Visual Identity
 # 📫 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/V0idjs">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
