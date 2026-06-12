@@ -6,80 +6,75 @@
 
 <br>
 
-![](https://img.shields.io/badge/Computer_Science-Engineering-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/Artificial_Intelligence-Specialization-6366F1?style=for-the-badge)
-![](https://img.shields.io/badge/Open_Source-Contributor-8B5CF6?style=for-the-badge)
+![Specialization](https://img.shields.io/badge/Computer_Science-Engineering-4F46E5?style=for-the-badge)
+![Specialization](https://img.shields.io/badge/Artificial_Intelligence-Specialization-6366F1?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributor-8B5CF6?style=for-the-badge)
 
 <br>
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:contact@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/VOID">
-<img src="https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VOID)
+
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=VOID&style=for-the-badge&color=6366F1)
-![](https://img.shields.io/github/followers/VOID?style=for-the-badge&color=8B5CF6)
-![](https://img.shields.io/github/stars/VOID?style=for-the-badge&color=4F46E5)
+![Profile Views](https://komarev.com/ghpvc/?username=VOID&style=for-the-badge&color=6366F1)
+![Followers](https://img.shields.io/github/followers/VOID?style=for-the-badge&color=8B5CF6)
+![Stars](https://img.shields.io/github/stars/VOID?style=for-the-badge&color=4F46E5)
 
 </div>
+
 ---
 
 # About
 
-Software Engineer focused on building scalable products, intelligent systems, and enterprise-grade software solutions. My work spans full-stack development, cloud-native architecture, artificial intelligence, machine learning, automation, and developer tooling.
+I'm a Software Engineer passionate about building **scalable products**, **intelligent systems**, and **enterprise-grade software solutions**. My expertise spans full-stack development, cloud-native architecture, artificial intelligence, machine learning, automation, and developer tooling.
 
-I enjoy transforming complex business requirements into maintainable, high-performance software systems that deliver measurable impact. My engineering philosophy centers on clean architecture, automation, observability, security, and long-term scalability.
+I transform complex business requirements into maintainable, high-performance software systems that deliver measurable impact. My engineering philosophy centers on **clean architecture**, **automation**, **observability**, **security**, and **long-term scalability**.
 
 ### Core Areas
 
-- Software Engineering
-- Artificial Intelligence & Machine Learning
-- Full Stack Development
-- Product Engineering
-- Cloud Architecture
-- DevOps & Automation
-- Open Source Development
+- 🎯 Software Engineering
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Full Stack Development
+- 📦 Product Engineering
+- ☁️ Cloud Architecture
+- ⚙️ DevOps & Automation
+- 🔗 Open Source Development
 
 ### Open To
 
-- Software Engineering Opportunities
-- AI/ML Engineering Roles
-- Full Stack Development Projects
-- Open Source Collaborations
-- Technical Consulting
-- Startup & Product Development
+- 🚀 Software Engineering Opportunities
+- 🧠 AI/ML Engineering Roles
+- 💻 Full Stack Development Projects
+- 🌍 Open Source Collaborations
+- 💼 Technical Consulting
+- 🚀 Startup & Product Development
 
 ---
 
 # Tech Stack
 
-## Languages
+### Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,cs,go,rust,php,bash" />
 </p>
 
-## Frontend
+### Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,html,css,tailwind,sass,figma" />
 </p>
 
-## Backend & Databases
+### Backend & Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,postgres,mysql,mongodb,redis,prisma,supabase" />
 </p>
 
-## Cloud, DevOps & Tooling
+### Cloud, DevOps & Tooling
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,linux,nginx,terraform,git,cloudflare" />
@@ -90,29 +85,29 @@ I enjoy transforming complex business requirements into maintainable, high-perfo
 # AI / ML Expertise
 
 | Domain | Proficiency | Details |
-|----------|------------|-----------|
-| Machine Learning | Advanced | Model training, evaluation, deployment |
-| Deep Learning | Advanced | CNNs, RNNs, Transformers |
-| LLM Engineering | Advanced | RAG, Fine-Tuning, Agents |
-| MLOps | Advanced | CI/CD for ML pipelines |
-| NLP | Advanced | Text processing and language systems |
-| Computer Vision | Intermediate | Detection, classification, segmentation |
-| Generative AI | Advanced | AI assistants and automation |
-| Data Engineering | Intermediate | ETL pipelines and analytics |
+|--------|-------------|---------|
+| Machine Learning | ⭐⭐⭐⭐⭐ | Model training, evaluation, deployment |
+| Deep Learning | ⭐⭐⭐⭐⭐ | CNNs, RNNs, Transformers |
+| LLM Engineering | ⭐⭐⭐⭐⭐ | RAG, Fine-Tuning, Agents |
+| MLOps | ⭐⭐⭐⭐⭐ | CI/CD for ML pipelines |
+| NLP | ⭐⭐⭐⭐⭐ | Text processing and language systems |
+| Computer Vision | ⭐⭐⭐⭐ | Detection, classification, segmentation |
+| Generative AI | ⭐⭐⭐⭐⭐ | AI assistants and automation |
+| Data Engineering | ⭐⭐⭐⭐ | ETL pipelines and analytics |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>Enterprise AI Assistant Platform</b></summary>
+<summary><b>🤖 Enterprise AI Assistant Platform</b></summary>
 
 ### Description
 
 Enterprise-grade AI platform supporting intelligent workflows, automation, retrieval systems, and knowledge management.
 
 | Metric | Details |
-|----------|---------|
+|--------|---------|
 | Stack | Python, FastAPI, PostgreSQL, Redis, Docker |
 | Scale | 100K+ Requests Daily |
 | Performance | <150ms Average Response |
@@ -127,14 +122,14 @@ Designed and developed a scalable AI platform integrating LLM workflows, vector 
 </details>
 
 <details>
-<summary><b>Cloud Native SaaS Platform</b></summary>
+<summary><b>☁️ Cloud Native SaaS Platform</b></summary>
 
 ### Description
 
 Multi-tenant SaaS architecture optimized for reliability, scalability, and performance.
 
 | Metric | Details |
-|----------|---------|
+|--------|---------|
 | Stack | Next.js, Node.js, PostgreSQL |
 | Scale | Multi-Tenant |
 | Performance | 99.99% Availability |
@@ -149,14 +144,14 @@ Implemented full lifecycle engineering from architecture design through deployme
 </details>
 
 <details>
-<summary><b>Developer Productivity Suite</b></summary>
+<summary><b>🛠️ Developer Productivity Suite</b></summary>
 
 ### Description
 
 Comprehensive tooling ecosystem for developers and engineering teams.
 
 | Metric | Details |
-|----------|---------|
+|--------|---------|
 | Stack | Electron, React, TypeScript |
 | Scale | Cross Platform |
 | Performance | Optimized Desktop Runtime |
@@ -174,7 +169,7 @@ Built modular architecture enabling rapid expansion through plugin-driven develo
 
 # Experience
 
-## Senior Software Engineer
+### Senior Software Engineer
 
 **Technology Company**
 
@@ -182,7 +177,7 @@ Built modular architecture enabling rapid expansion through plugin-driven develo
 
 Designing and delivering enterprise software systems, AI-powered applications, and cloud-native infrastructure.
 
-### Responsibilities
+**Responsibilities**
 
 - Architect scalable backend systems
 - Design cloud-native solutions
@@ -191,13 +186,13 @@ Designing and delivering enterprise software systems, AI-powered applications, a
 - Implement secure development practices
 - Mentor engineering teams
 
-### Skills
+**Tech Stack**
 
 `Python` `TypeScript` `AWS` `Docker` `Kubernetes` `PostgreSQL` `AI` `Machine Learning`
 
 ---
 
-## Full Stack Engineer
+### Full Stack Engineer
 
 **Digital Products Company**
 
@@ -205,7 +200,7 @@ Designing and delivering enterprise software systems, AI-powered applications, a
 
 Developed modern web applications, internal tooling, and automation systems.
 
-### Responsibilities
+**Responsibilities**
 
 - Frontend architecture
 - Backend API development
@@ -213,7 +208,7 @@ Developed modern web applications, internal tooling, and automation systems.
 - Database optimization
 - Monitoring and observability
 
-### Skills
+**Tech Stack**
 
 `React` `Next.js` `Node.js` `MongoDB` `Redis` `GitHub Actions`
 
@@ -224,13 +219,13 @@ Developed modern web applications, internal tooling, and automation systems.
 <div align="center">
 
 | Recognition | Details |
-|------------|---------|
-| Open Source Contributions | Contributed to community-driven projects |
-| Product Engineering | Delivered scalable software solutions |
-| AI Innovation | Built production AI systems |
-| Performance Optimization | Improved infrastructure efficiency |
-| Cloud Architecture | Designed highly available systems |
-| Automation Excellence | Reduced operational overhead |
+|-------------|---------|
+| 🏆 Open Source Contributions | Contributed to community-driven projects |
+| 📈 Product Engineering | Delivered scalable software solutions |
+| 🤖 AI Innovation | Built production AI systems |
+| ⚡ Performance Optimization | Improved infrastructure efficiency |
+| ☁️ Cloud Architecture | Designed highly available systems |
+| ⚙️ Automation Excellence | Reduced operational overhead |
 
 </div>
 
@@ -238,22 +233,22 @@ Developed modern web applications, internal tooling, and automation systems.
 
 # Certifications
 
-## AWS
+### AWS
 
-![](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+[![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+[![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 
-## Oracle
+### Oracle
 
-![](https://img.shields.io/badge/Oracle-Java_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+[![Oracle Java Professional](https://img.shields.io/badge/Oracle-Java_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#)
 
-## Cisco
+### Cisco
 
-![](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+[![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
 
-## NPTEL
+### NPTEL
 
-![](https://img.shields.io/badge/NPTEL-Programming-4F46E5?style=for-the-badge)
+[![NPTEL Programming](https://img.shields.io/badge/NPTEL-Programming-4F46E5?style=for-the-badge)](#)
 
 ---
 
@@ -355,21 +350,13 @@ Open_To:
 
 <div align="center">
 
-<a href="mailto:contact@example.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
-<a href="https://github.com/VOID">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VOID)
 
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.com)
 
 </div>
 
