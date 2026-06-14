@@ -231,27 +231,6 @@ Developed modern web applications, internal tooling, and automation systems.
 
 ---
 
-# Certifications
-
-### AWS
-
-[![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-[![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-
-### Oracle
-
-[![Oracle Java Professional](https://img.shields.io/badge/Oracle-Java_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#)
-
-### Cisco
-
-[![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
-
-### NPTEL
-
-[![NPTEL Programming](https://img.shields.io/badge/NPTEL-Programming-4F46E5?style=for-the-badge)](#)
-
----
-
 # Coding Profiles
 
 <div align="center">
