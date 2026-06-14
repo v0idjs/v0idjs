@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:6366F1,100:8B5CF6&text=VOID&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:6366F1,100:8B5CF6&text=v0idjs&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Products"/>
 
@@ -15,13 +15,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VOID)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/v0idjs)
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=VOID&style=for-the-badge&color=6366F1)
-![Followers](https://img.shields.io/github/followers/VOID?style=for-the-badge&color=8B5CF6)
-![Stars](https://img.shields.io/github/stars/VOID?style=for-the-badge&color=4F46E5)
+![Profile Views](https://komarev.com/ghpvc/?username=v0idjs&style=for-the-badge&color=6366F1)
+![Followers](https://img.shields.io/github/followers/v0idjs?style=for-the-badge&color=8B5CF6)
+![Stars](https://img.shields.io/github/stars/v0idjs?style=for-the-badge&color=4F46E5)
 
 </div>
 
@@ -272,15 +272,15 @@ Developed modern web applications, internal tooling, and automation systems.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VOID&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=v0idjs&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOID&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0idjs&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VOID&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=v0idjs&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -290,7 +290,7 @@ Developed modern web applications, internal tooling, and automation systems.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VOID&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=v0idjs&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -300,7 +300,7 @@ Developed modern web applications, internal tooling, and automation systems.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VOID&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=v0idjs&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -354,7 +354,7 @@ Open_To:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VOID)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/v0idjs)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.com)
 
