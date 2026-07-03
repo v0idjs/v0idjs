@@ -65,12 +65,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=v0idjs&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0idjs&layout=compact&theme=radical&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=v0idjs&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=v0idjs&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
 
 </div>
 
@@ -94,7 +89,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=v0idjs&theme=react-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=v0idjs&theme=radical&hide_border=true" />
 
 </div>
 
@@ -119,7 +114,7 @@
 </div>
 
 <div align="center">
-<sub>✨ Generated with care — profile last synced from github.com/v0idjs</sub>
+<sub>Building tools in the void</sub>
 </div>
 
 <!--
