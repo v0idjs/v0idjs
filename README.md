@@ -47,13 +47,18 @@
 <div align="center">
 
 <a href="https://github.com/v0idjs/ToolBox-Pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=v0idjs&repo=ToolBox-Pro&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/badge/ToolBox--Pro-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/v0idjs/ToolBox-Pro?style=social" />
 </a>
+
 <a href="https://github.com/v0idjs/VPS-Studio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=v0idjs&repo=VPS-Studio&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/badge/VPS--Studio-DevOps-8A2BE2?style=for-the-badge&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/v0idjs/VPS-Studio?style=social" />
 </a>
+
 <a href="https://github.com/v0idjs/CommitCraft">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=v0idjs&repo=CommitCraft&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/badge/CommitCraft-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/v0idjs/CommitCraft?style=social" />
 </a>
 
 </div>
@@ -64,9 +69,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=v0idjs&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0idjs&layout=compact&theme=radical&hide_border=true" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=v0idjs&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+<img src="https://edge-readme-stats.dancodes.online/stats?username=v0idjs&size=lg&border=true" height="165"/>
+<img src="https://edge-readme-stats.dancodes.online/langs?username=v0idjs&layout=compact&size=lg&border=true" height="165"/>
 
 </div>
 
@@ -161,8 +165,8 @@ jobs:
 
    Commit + push, run the workflow once manually (`workflow_dispatch`), then the `output` branch will contain the SVGs this README links to.
 
-3) **GitHub Stats & Streak** widgets work automatically from your public username — no setup needed, just keep your contribution graph public.
+3) **GitHub Stats** cards are powered by [edge-readme-stats](https://github.com/dan-online/edge-readme-stats) — works automatically, no setup needed.
 
-4) **Activity Graph** also works automatically once you have public contributions.
+4) **Activity Graph** works automatically once you have public contributions.
 
 </details>
