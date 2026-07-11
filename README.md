@@ -69,26 +69,7 @@
 
 <div align="center">
 
-<a href="https://github.com/v0idjs">
-  <img src="https://img.shields.io/github/stars/v0idjs?style=for-the-badge&color=8A2BE2&logo=github&logoColor=white&label=Stars" />
-</a>
-<a href="https://github.com/v0idjs">
-  <img src="https://img.shields.io/github/forks/v0idjs?style=for-the-badge&color=8A2BE2&logo=github&logoColor=white&label=Forks" />
-</a>
-<a href="https://github.com/v0idjs">
-  <img src="https://img.shields.io/github/commits/v0idjs?style=for-the-badge&color=8A2BE2&logo=github&logoColor=white&label=Commits" />
-</a>
-<a href="https://github.com/v0idjs">
-  <img src="https://img.shields.io/github/pulls/v0idjs?style=for-the-badge&color=8A2BE2&logo=github&logoColor=white&label=PRs" />
-</a>
-<a href="https://github.com/v0idjs">
-  <img src="https://img.shields.io/github/issues/v0idjs?style=for-the-badge&color=8A2BE2&logo=github&logoColor=white&label=Issues" />
-</a>
-
-</div>
-
-<div align="center">
-
+<img src="https://edge-readme-stats.dancodes.online/stats?username=v0idjs&size=lg&border=true" height="165"/>
 <img src="https://edge-readme-stats.dancodes.online/langs?username=v0idjs&layout=compact&size=lg&border=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=v0idjs&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
 
